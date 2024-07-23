@@ -1,0 +1,12 @@
+A matriz de risco é uma ferramenta essencial no gerenciamento de riscos, que ajuda as equipes a identificar, avaliar e priorizar diferentes riscos com base em sua probabilidade de ocorrência e impacto potencial. Essa abordagem sistemática permite que desenvolver estratégias mais eficazes para mitigar, transferir, aceitar ou evitar riscos, dependendo de sua natureza e severidade.
+
+<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G05/blob/main/assets/matriz_de_risco.png">
+
+<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G05/blob/main/assets/plano_de_acao.png">
+A matriz de risco apresentada ilustra uma avaliação sistemática de possíveis riscos associados a um projeto, classificando-os em termos de probabilidade e impacto. Ela categoriza os riscos de "Muito Baixa" a "Muito Alta" probabilidade, assim como de "Muito Baixo" a "Muito Alto" impacto, proporcionando uma visualização clara dos riscos prioritários que precisam ser abordados.
+
+Os riscos destacados incluem dificuldades de compreensão do código fornecido pela Pearson, potenciais barreiras de comunicação entre as equipes de marketing e tecnologia, e a possibilidade de análises inadequadas dos dados dos leads, entre outros. Cada risco é acompanhado por um plano de ação detalhado, incluindo uma descrição do impacto esperado e as medidas a serem tomadas para mitigar ou gerenciar o risco. O plano também designa responsáveis específicos para cada ação, garantindo a responsabilização e a execução efetiva.
+
+Por exemplo, para o risco de "Dificuldade de entendimento do código fornecido pela Pearson", que tem uma probabilidade média e um alto impacto, a Vitória é responsável por dedicar tempo para uma análise detalhada e prestar auxílio ao grupo. Outro risco identificado é a "Análise inadequada dos dados de conversão", que pode levar a decisões equivocadas de marketing e afetar a geração de leads; para este risco, Eric ficará encarregado de estabelecer uma rotina de análise de dados.
+
+A matriz destaca a importância de uma comunicação eficaz entre as equipes e o aprimoramento contínuo do conhecimento técnico para evitar atrasos no projeto. Ela também sublinha a necessidade de adaptar práticas conforme as ausências previstas dos membros da equipe e de garantir a proteção dos dados sensíveis, demonstrando um entendimento abrangente dos possíveis obstáculos e uma abordagem proativa para o sucesso do projeto.
